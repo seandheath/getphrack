@@ -8,14 +8,14 @@ Download and archive all issues of [Phrack Magazine](http://phrack.org).
 python getphrack.py
 ```
 
-This downloads all available issues, extracts them into `phrack/`, and packages everything into `phrack_all.tar.gz`.
+This downloads all available issues, extracts them into `phrack/`, and packages everything into `phrack.tar.gz`.
 
 ### Options
 
 | Flag | Description |
 |------|-------------|
 | `--skip-download` | Skip downloading, just extract and archive existing tarballs |
-| `--combine` | Combine all articles into a single `phrack_complete.txt` file |
+| `--combine` | Combine all articles into a single `phrack.txt` file |
 
 ### Examples
 
